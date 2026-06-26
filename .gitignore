@@ -1,0 +1,14 @@
+# Competition data and outputs — never commit (Kaggle ToS + size)
+data/
+submissions/
+
+# Credentials — must never be committed
+kaggle.json
+*.kaggle
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+.ipynb_checkpoints/
+.DS_Store
